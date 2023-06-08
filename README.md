@@ -10,3 +10,6 @@
  A domain expert can choose the level of granularity and is able to select a particular region of the data space for a detailed view. The Gath-Geva with Focal Point algorithm is tested with wind turbine gearbox vibrational data and compared with its unbiased version, the Fuzzy C-Means biased and unbiased algorithms. 
  
  Two metrics are employed to validate internal clustering: the Xie-Beni index and Kim-Lee index, the latter of which is based on relative degree of sharing. The algorithms are compared by performing several independent runs and using the distribution of the Adjusted Rand Index external validation metric.
+
+
+![Alt Text](/image.png)
