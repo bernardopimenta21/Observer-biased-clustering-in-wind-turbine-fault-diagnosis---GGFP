@@ -11,6 +11,6 @@
  
  Two metrics are employed to validate internal clustering: the Xie-Beni index and Kim-Lee index, the latter of which is based on relative degree of sharing. The algorithms are compared by performing several independent runs and using the distribution of the Adjusted Rand Index external validation metric.
 
-[Read dissertation here](dissertation.pdf)
+[Read dissertation here - Link to PDF](dissertation.pdf)
 
 ![Alt Text](/image.png)
